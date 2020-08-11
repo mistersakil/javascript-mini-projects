@@ -1,2 +1,2 @@
 # Javascript MINI Projects
-** Practice projects
+* Practice projects
