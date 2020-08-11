@@ -1,2 +1,2 @@
-# javascript-mini-projects
-Created with CodeSandbox
+# Javascript MINI Projects
+** Practice projects
